@@ -1,6 +1,8 @@
 # Olá Pessoal, sou Gelson Nobre 👋 
 # Fiquei interessado em programação logo após o inicio da pandemia de covid-19, quando na empresa em que trabalho atualmente, fui desafiado a criar aplicativos LowCode, e criar automações de processos internos com a plataforma Power da Microsoft. :mortar_board: Atualmente sou estudante de Análise de Sistemas, tenho conhecimentos em Power BI, Power Apps, Power Automate e busco solidificar meus conhecimentos em Java.
 <hr></hr>
+:white_check_mark: Interesses e Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
 
 <!--
 **GelsonNobre/GelsonNobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
