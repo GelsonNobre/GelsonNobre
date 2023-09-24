@@ -1,5 +1,5 @@
-# Hi there 👋 
-
+# Olá Pessoal, sou Gelson Nobre 👋 
+Atualmente sou estudante de Análise de Sistemas, tenho conhecimentos em Power BI, Power Apps e Power Automate, busco solidificar meus conhecimentos em Java - 
 <!--
 **GelsonNobre/GelsonNobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
